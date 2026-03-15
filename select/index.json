@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "breaking dawn",
+  "base_artist": "iri",
+  "createdAt": "2026-03-15T13:51:25.593270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Will Rain [The Twilight Saga: Breaking Dawn, Pt 1]",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/01_It_Will_Rain_[The_Twilight_Saga__Breaking_Dawn,_Pt_1]_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack",
+      "artist": "Christina Perri feat. Steve Kazee",
+      "has_synced": true,
+      "path": "select/02_A_Thousand_Years_(feat._Steve_Kazee)_-_Pt._2;_The_Twilight_Saga__Breaking_Dawn_S_Christina_Perri_feat._Steve_Kazee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Thousand Years (feat. Steve Kazee) (Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack)",
+      "artist": "Christina Perri, Steve Kazee",
+      "has_synced": true,
+      "path": "select/03_A_Thousand_Years_(feat._Steve_Kazee)_(Pt._2;_The_Twilight_Saga__Breaking_Dawn_So_Christina_Perri,_Steve_Kazee.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breaking Dawn",
+      "artist": "Stereophonics",
+      "has_synced": true,
+      "path": "select/04_Breaking_Dawn_Stereophonics.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breaking Dawn",
+      "artist": "THE BOYZ",
+      "has_synced": true,
+      "path": "select/05_Breaking_Dawn_THE_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breaking Dawn",
+      "artist": "The Boyz",
+      "has_synced": true,
+      "path": "select/06_Breaking_Dawn_The_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breaking Dawn",
+      "artist": "Stereophonics",
+      "has_synced": true,
+      "path": "select/07_Breaking_Dawn_Stereophonics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "breaking dawn",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/08_breaking_dawn_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "breaking dawn​",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/09_breaking_dawn​_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Thousand Years, Pt. 2 (From the Movie \"Twilight-Breaking Dawn\")",
+      "artist": "Soundtrax",
+      "has_synced": false,
+      "path": "select/10_A_Thousand_Years,_Pt._2_(From_the_Movie__Twilight-Breaking_Dawn_)_Soundtrax.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Thousand Years (feat. Steve Kazee) (Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack)",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/11_A_Thousand_Years_(feat._Steve_Kazee)_(Pt._2;_The_Twilight_Saga__Breaking_Dawn_So_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Will Rain (From \"The Twilight Saga: Breaking Dawn - Part 1\")",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_It_Will_Rain_(From__The_Twilight_Saga__Breaking_Dawn_-_Part_1_)_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/13_A_Thousand_Years_(feat._Steve_Kazee)_-_Pt._2;_The_Twilight_Saga__Breaking_Dawn_S_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Thousand Years (From \"The Twilight Saga: Breaking Dawn, Pt. 1\")",
+      "artist": "Collabro",
+      "has_synced": true,
+      "path": "select/14_A_Thousand_Years_(From__The_Twilight_Saga__Breaking_Dawn,_Pt._1_)_Collabro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Will Rain (From \"Twilight Breaking Dawn\")",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/15_It_Will_Rain_(From__Twilight_Breaking_Dawn_)_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Thousand Years (The Twilight Saga: Breaking Dawn, Pt. 1) (Originally Performed By Christina Perri) [Instrumental Version]",
+      "artist": "Radio",
+      "has_synced": false,
+      "path": "select/16_A_Thousand_Years_(The_Twilight_Saga__Breaking_Dawn,_Pt._1)_(Originally_Performed_Radio.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Breaking Dawn",
+      "artist": "Stereophonics",
+      "has_synced": true,
+      "path": "select/17_Breaking_Dawn_Stereophonics.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Breaking Dawn (Written For Twilight)",
+      "artist": "Stereophonics",
+      "has_synced": true,
+      "path": "select/18_Breaking_Dawn_(Written_For_Twilight)_Stereophonics.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "breaking dawn",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_breaking_dawn_iri.txt"
+    }
+  ]
+}
